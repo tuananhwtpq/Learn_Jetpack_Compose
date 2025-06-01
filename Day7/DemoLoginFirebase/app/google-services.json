@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "227469397711",
+    "project_id": "demologinfirebase-c2fb3",
+    "storage_bucket": "demologinfirebase-c2fb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227469397711:android:cbc3c1f7f725fbf67871ba",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB5qBTSIS_RnWkTNijm1UDl_BBmJvRP9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

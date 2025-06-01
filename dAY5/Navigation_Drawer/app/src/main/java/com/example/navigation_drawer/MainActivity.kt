@@ -31,9 +31,8 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
         //Set support action bar
         setSupportActionBar(binding.toolBar)
-        supportActionBar?.setDisplayHomeAsUpEnabled(true)
-
-
+        //supportActionBar?.setDisplayHomeAsUpEnabled(true)
+        
         binding.navView.setNavigationItemSelectedListener(this)
 
         toggle = ActionBarDrawerToggle(
